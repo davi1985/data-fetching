@@ -17,7 +17,6 @@
 
 - [x] Vite
 - [x] React
-- [x] SWR
 - [x] React Query
 - [x] Axios
 
